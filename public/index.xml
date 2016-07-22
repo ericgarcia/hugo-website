@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Garcia</title>
+    <link>https://ericgarcia.github.io/</link>
+    <description>Recent content on Eric Garcia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Eric Garcia</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ericgarcia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NuMundo</title>
+      <link>https://ericgarcia.github.io/project/numundo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericgarcia.github.io/project/numundo/</guid>
+      <description>&lt;p&gt;I met up with the &lt;a href=&#34;https://numundo.org/about&#34;&gt;NuMundo&lt;/a&gt; crew in the Fall of 2014 as they were applying to &lt;a href=&#34;http://startupchile.org/about&#34;&gt;Startup Chile&lt;/a&gt;. I helped with the application process and when we were accepted I took the year off from work to move to Chile and architect and build the backend of their web application. The platform continues to progress and I continue to contribute to development as a full stack engineer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://ericgarcia.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ericgarcia.github.io/home/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;Eric Garcia is a data scientist at &lt;a href=&#34;https://www.pterohq.com&#34;&gt;Ptero&lt;/a&gt; and &lt;a href=&#34;http://www.data-cowboys.com&#34;&gt;DataCowboys&lt;/a&gt; he is also a technology advisor / full stack developer at &lt;a href=&#34;https://www.numundo.org&#34;&gt;NuMundo&lt;/a&gt;. He is a creative artisan of machine learning algorithms and has designed and implemented many solutions for behavior analysis over the past few years. Prior to that he was a postdoc in the genome sciences department at the University of Washington and has repurposed many techniques from analyzing the human genome to analyzing user behavior. As a data scientist he is currently building algorithms in Scala and Apache Spark, but has extensive experience with the Python scikit-learn toolkit. As a full stack developer he architected the technology stack for NuMundo in Node.js and Angular. His passions include algorithms, permaculture, ecstatic dance, backpacking, and his long-term goal is to apply permaculture principles to grow his own food and live sustainably off the grid.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
